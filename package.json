@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "parcel build src/hello.ts && node ./dist/hello.js"
+    "start": "parcel build src/hello.ts --no-cache && node ./dist/hello.js"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.202",
