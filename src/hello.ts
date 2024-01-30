@@ -1,3 +1,3 @@
-import { toUpper } from './toUpper';
+import capitalize from 'lodash/capitalize';
 
-console.log(`### Hello, ${toUpper('parcel')}`);
+console.log(`### Hello, ${capitalize('parcel')}`);
