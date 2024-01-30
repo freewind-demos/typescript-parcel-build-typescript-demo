@@ -1,9 +1,9 @@
-TypeScript Parcel Typescript Demo
+TypeScript Parcel Build Typescript Demo
 =================================
 
-使用parcel来简化demo的创建
+用parcel来build typescript文件
 
 ```
 npm i
-npm run demo
+npm start
 ```

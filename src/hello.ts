@@ -1,1 +1,3 @@
-console.log('### Hello');
+import { toUpper } from './toUpper';
+
+console.log(`### Hello, ${toUpper('parcel')}`);
